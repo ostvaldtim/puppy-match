@@ -27,4 +27,4 @@ A small match-3 browser game built as a fast product experiment.
 
 ---
 
-Built by **Artem Ostvald**.
+Built by **Tim Ostvald**.
